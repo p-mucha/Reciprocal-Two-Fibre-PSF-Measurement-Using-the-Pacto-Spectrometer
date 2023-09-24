@@ -30,8 +30,6 @@ def subtract_dark(data, dark_data = None):
         dark = data[1]
         data_new[3:] = data[3:] - dark
 
-    
-
     return data_new
 
 
