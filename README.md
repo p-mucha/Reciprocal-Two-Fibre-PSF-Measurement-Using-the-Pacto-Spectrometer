@@ -21,16 +21,25 @@ Setup:
 -	Protractor is fixed using bluetack.
 -	Light in the room is turned off during measurements as it was interfering.
 
-Sketch of the setup:
+<br>
+Sketch of the setup: <br>
+<br>
+
 ![image](https://github.com/p-mucha/Measurement-of-a-PSF-using-the-Pacto-spectrometer/assets/126366877/24d59326-2574-4692-9457-42285fda3cc7)
 
-Figures below show pictures of setup:
+<br>
+<br>
+Figures below show pictures of setup: <br>
+<br>
+
 ![image](https://github.com/p-mucha/Measurement-of-a-PSF-using-the-Pacto-spectrometer/assets/126366877/c4d8b4f2-4523-43f8-b6ca-9d2f753c8b6f)
 
 ![image](https://github.com/p-mucha/Measurement-of-a-PSF-using-the-Pacto-spectrometer/assets/126366877/5115a7b1-fe96-4308-a020-1bb4dcf2f422)
 
 ![image](https://github.com/p-mucha/Measurement-of-a-PSF-using-the-Pacto-spectrometer/assets/126366877/b746d667-5735-4f7e-a5b1-c419f0586f2a)
 
+<br>
+<br>
 
 Procedure:
 -	Spectra are taken every 5 degrees, starting from 0. 
