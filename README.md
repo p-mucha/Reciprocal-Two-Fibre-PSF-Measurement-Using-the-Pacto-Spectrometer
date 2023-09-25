@@ -1,5 +1,5 @@
 # Measurement-of-a-PSF-using-the-Pacto-spectrometer
-Work performed as part of the Summer Internship at UCLO under the supervision of Prof. G. Savini, Ms S.Sullivan and Mr T.Schlichter
+Work performed as part of the Summer Internship at UCLO under the supervision of Prof. G. Savini, Ms S. Sullivan and Mr T. Schlichter
 
 
 Software settings (Avasoft 8.16.1.0):
