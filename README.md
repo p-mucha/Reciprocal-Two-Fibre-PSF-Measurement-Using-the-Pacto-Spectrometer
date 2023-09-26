@@ -1,4 +1,4 @@
-# Reciprocal Two Fibre PSF Measurement Using The Pacto Spectrometer
+# Reciprocal Two Fibre PSF Measurement Using the Pacto Spectrometer
 Work performed as part of the Summer Internship at UCLO under the supervision of Prof. G. Savini, Ms S. Sullivan and Mr T. Schlichter
 
 
