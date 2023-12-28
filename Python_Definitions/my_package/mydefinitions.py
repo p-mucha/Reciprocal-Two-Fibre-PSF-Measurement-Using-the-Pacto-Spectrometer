@@ -450,7 +450,6 @@ def eliminate_noisy_data(data_array, noise_array, SN_ratio_value = None):
 
 
 
-example_noise = np.ones(2048)*20
 
 def eliminate_noisy_columns(dataframe, noise_array, SN_ratio = None):
 
